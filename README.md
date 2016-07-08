@@ -1,4 +1,4 @@
-# jexus/mono
+# jexus/mono:latest
 Just for automaked docker image - jexus/mono:latest
 
 Usage(使用方法，注意数据卷的映射必须是绝对路径) :
